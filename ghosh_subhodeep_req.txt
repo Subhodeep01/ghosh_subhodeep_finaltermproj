@@ -7,3 +7,4 @@ tensorflow
 tf-keras
 setuptools
 ucimlrepo
+jupyter
